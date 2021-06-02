@@ -8,10 +8,11 @@ https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
 
 *Assignment operators:* Hooray! these look to be the same as Ruby ( `= , += , -= , *= `)
 
-Maths (Addition etc)  
-Arrays  
+*Maths (Addition etc):* Same as ruby?
+*Arrays:* Same as ruby  
 Hashes  
-running in irb / load ruby  
+*running in irb / load ruby* `open SpecRunner.html`
+In the same browser window where your SpecRunner.html is loaded up, open your console (Google Chrome shortcut is cmd + option + i) and at the prompt initialise an instance of your class to get going eg `var javabuzz = new Javabuzz();` :
 
 
 If statements  
@@ -27,7 +28,7 @@ Instance variables
 
 
 raise error if..   
-Boolean logic operators  
+*Boolean logic operators:* Almost the same as ruby, but notably `==` in JS means equal to, vs. `===` meaning equal value and equal type. Seems like most situations will call for triple equal.  
 Output functions (return/puts/print/p)  
 Input functions (gets.chomp / method parameters)  
 Dependency injection  
